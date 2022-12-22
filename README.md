@@ -1,1 +1,1 @@
-# cp-resources
+https://cp-algorithms.com/#contributing
